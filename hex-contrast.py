@@ -1,3 +1,4 @@
+# Incomplete!
 # Hex to decimal
 def convertRBG(hex):
     # separate hex into pairs 
